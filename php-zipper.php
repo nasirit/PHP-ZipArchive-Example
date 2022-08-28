@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>PHP ZipArchive Example</title>
+	<title>PHP ZipArchive Example 2</title>
 </head>
 
 <body>
